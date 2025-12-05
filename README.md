@@ -61,9 +61,8 @@ No broker APIs, no OTP, no tokens.
 
 ## 📷 Screenshots (add later)
 
-![Website Screenshot](https://<img width="100" height="100" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/a68e73f4-b8ad-4269-8c01-d23a94bf162c" />
-)
-<img width="100" height="100" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/5adf27fe-a55d-41fd-9046-b98b3f542150" />
+<img width="1000" height="1000" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/a68e73f4-b8ad-4269-8c01-d23a94bf162c" />
+<img width="1000" height="1000" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/5adf27fe-a55d-41fd-9046-b98b3f542150" />
+<img width="1000" height="1000" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/8d9ed639-8502-42f5-b458-fbd095a218ec" />
 
-![Website Screenshot](https://your-image-link.com/image.png)
 
